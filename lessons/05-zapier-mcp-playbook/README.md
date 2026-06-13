@@ -10,7 +10,7 @@
 ## How to use this playbook
 
 > [!IMPORTANT]
-> **PUBLIC INFORMATION ONLY.** Every script in this playbook uses only public information sources and personal productivity tools (Slack, Google Sheets, Google Docs, YouTube, Gmail drafts). None require connections to corporate infrastructure, SIEMs, ticketing systems, or internal networks. This aligns with the course's recommendation that OpenClaw should **not** be connected to corporate systems.
+> **PUBLIC INFORMATION ONLY.** Every script in this playbook uses only public information sources and personal productivity tools (Slack, Google Sheets, Google Docs, YouTube, Gmail drafts). None require connections to corporate infrastructure, SIEMs, ticketing systems, or internal networks. Remember OpenClaw should **not** be connected to corporate systems.
 
 - Items in **`[BRACKETS]`** need to be replaced with your values.
 - **All email actions create DRAFTS only — never auto-send.**
