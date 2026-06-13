@@ -17,14 +17,9 @@ Search YouTube for videos uploaded in the last
 CHANNELS:
 - John Hammond
 - NetworkChuck
-- LiveOverflow
-- IppSec
-- David Bombal
 - The Cyber Mentor
 - SANS Institute
 - Black Hat / DEF CON
-- 13Cubed (DFIR)
-- Professor Messer
 
 ALSO SEARCH KEYWORDS:
 - "cybersecurity news today"
