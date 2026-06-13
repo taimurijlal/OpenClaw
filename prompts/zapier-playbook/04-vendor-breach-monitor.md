@@ -5,7 +5,7 @@
 Monitors public news for data breaches or security incidents affecting your key vendors and suppliers, then alerts you via Slack.
 
 **Zapier actions to enable:**
-- Google Sheets: Lookup Spreadsheet Rows (read vendor list)
+- Google Sheets: All readonly only
 - Slack: Send Direct Message or Send Channel Message
 - Gmail: Create Draft Email
 
