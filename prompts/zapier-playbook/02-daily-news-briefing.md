@@ -34,13 +34,10 @@ NOTABLE — Industry trends, research, advisories
 - Notable items
 - Source links for each item
 
-4. Save the briefing as a Google Doc titled:
-"Security Briefing — [TODAY'S DATE]"
-
-5. Draft a Gmail to [SECURITY-TEAM@COMPANY.COM]
+4. Draft a Gmail to [SECURITY-TEAM@COMPANY.COM]
 with subject "Daily Security Briefing — [DATE]"
 containing the briefing. DO NOT SEND — draft only.
 
-6. Post a short summary (3–5 bullet points) to
+5. Post a short summary (3–5 bullet points) to
 the Slack channel #security-daily.
 ```
